@@ -32,7 +32,7 @@ SELECT M.product_name,COUNT(S.product_id) as times_purchased FROM dannys_diner.s
 JOIN dannys_diner.menu M ON S.product_id=M.product_id
 GROUP BY M.product_name
 ORDER BY times_purchased DESC
-LIMIT 1
+LIMIT 1;
 
 -- 5. Which item was the most popular for each customer?
 
@@ -110,7 +110,7 @@ FROM dannys_diner.sales S
 JOIN dannys_diner.menu ME ON S.product_id=ME.product_id
 JOIN dannys_diner.members M ON S.customer_id=M.customer_id
 WHERE S.order_date<'2021-02-01'
-GROUP BY S.customer_id
+GROUP BY S.customer_id;
 
 -- Bonus Questions
   

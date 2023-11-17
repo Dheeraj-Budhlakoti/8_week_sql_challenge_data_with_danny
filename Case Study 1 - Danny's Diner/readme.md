@@ -81,5 +81,5 @@ Danny also requires further information about the ranking of customer products, 
 
 ## Conclusion
 
-Week 01 Completed! I'd like to extend my appreciation to Danny Ma for creating this fantastic challenge and providing a platform for SQL enthusiasts to enhance their skills. In this repository, you'll find my detailed solutions for Week 01, which include SQL queries. Feel free to explore these solutions to see how I approached the tasks, and use them as a reference for your own learning journey.
+Week 01 Completed! I'd like to extend my appreciation to Danny Ma for creating this fantastic challenge and providing a platform for SQL enthusiasts to enhance their skills. In this repository, you'll find my detailed [solutions](https://github.com/Dheeraj-Budhlakoti/8_week_sql_challenge_data_with_danny/blob/main/Case%20Study%201%20-%20Danny's%20Diner/Week%2001%20Solutions.md) for Week 01, which include SQL queries. Feel free to explore these solutions to see how I approached the tasks, and use them as a reference for your own learning journey.
 If you have any questions or feedback about my Week 01 solutions, please don't hesitate to reach out. I'm open to constructive criticism and eager to engage in discussions about SQL and data analysis.

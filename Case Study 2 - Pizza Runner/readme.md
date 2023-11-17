@@ -434,6 +434,8 @@ Before you start writing your SQL queries however - you might want to investigat
 9. What was the total volume of pizzas ordered for each hour of the day?
 10. What was the volume of orders for each day of the week?
 
+You can find the solution [here](https://github.com/Dheeraj-Budhlakoti/8_week_sql_challenge_data_with_danny/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Week%2002_A%20Solutions.md)
+
 ## B. Runner and Customer Experience
 
 1. How many runners signed up for each 1 week period? (i.e. week starts *2021-01-01*)

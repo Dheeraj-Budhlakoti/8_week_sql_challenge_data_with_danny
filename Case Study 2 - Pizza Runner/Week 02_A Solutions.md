@@ -1,3 +1,5 @@
+# Solution A. Pizza Metrics #
+
 **Schema (PostgreSQL v13)**
 
     CREATE SCHEMA pizza_runner;
